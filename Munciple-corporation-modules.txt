@@ -1,0 +1,15 @@
+Project Name: Munciple Corporation
+
+Front End: Html5, css3, javascript, Jquery, Bootstrap
+
+Server Side TEch: PHP
+
+Backend Tech: MYSQL	
+
+Tool: XAMPP
+
+Modules:
+
+Admin: View Complaints, Sort Complaints, Complaints Status update,
+
+User: Registration, Login, Complaint file, Complaint Status, profile, Complaint Notifications
